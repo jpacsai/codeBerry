@@ -1,0 +1,9 @@
+wedding_page:
+https://jpacsai.github.io/codeBerrySchool/HTML-CSS/wedding_page/
+
+About_page:
+https://jpacsai.github.io/codeBerrySchool/HTML-CSS/about_page/
+
+Wiki_page:
+https://jpacsai.github.io/codeBerrySchool/HTML-CSS/wiki_page/
+
