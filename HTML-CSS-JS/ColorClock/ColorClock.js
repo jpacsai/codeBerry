@@ -16,7 +16,7 @@ function colorClock(){
   
     var clockFace = hours + ':' + minutes + ':' + seconds;
     
-    var hexColor = '#' + hours + (minutes + 70) + (seconds + 20);
+    var hexColor = '#' + hours + (minutes + 50) + (seconds + 20);
   
     document.getElementById('clock').innerHTML = clockFace;
     document.body.style.background = hexColor;
