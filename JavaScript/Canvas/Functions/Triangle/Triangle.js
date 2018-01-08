@@ -1,9 +1,6 @@
 var canvas = document.getElementById('myCanvas');
 var context = canvas.getContext('2d');
 
-var canvasWidth = canvas.width;
-var canvasHeight = canvas.height;
-
 function triangle(x,y,a) {
   context.fillStyle = 'rgba(246, 166, 28, 0.67)';
   context.beginPath();
