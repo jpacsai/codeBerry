@@ -1,5 +1,7 @@
 # codeBerrySchool
 
+Coursework for CodeBerry School's front end course.
+
 - ### HTML5:  
   "In the introductory course, we’ll show you the basics of HTML5 and we’ll build simple websites with basic content: title, text,   pictures, links and tables. In the advanced course, you’ll learn about further HTML5 elements, such as buttons, positioning and canvases used to create graphic visuals."
   
